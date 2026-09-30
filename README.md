@@ -1,4 +1,4 @@
 # mustafo
 BIRINCHI GIT
 SALOM BOLLA
-men Xaakimjon silarga kirdim
+men Xakimjon silarga kirdim
